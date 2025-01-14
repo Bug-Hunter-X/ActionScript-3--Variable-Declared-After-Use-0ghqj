@@ -1,0 +1,3 @@
+# ActionScript 3 Variable Declaration Error
+
+This repository demonstrates a common ActionScript 3 error where a variable is used before it's declared, leading to a compiler error. This often happens in larger projects due to the variable declaration being overlooked or in cases with complex logic and function interdependencies. The solution involves restructuring the code to ensure correct variable scope and declaration order.
